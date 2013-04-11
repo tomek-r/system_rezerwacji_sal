@@ -1,4 +1,4 @@
-system_rezerwacji_sal
+System Rezerwacji Sal
 =====================
 
-system rezerwacji sal
+System rezerwacji sal
